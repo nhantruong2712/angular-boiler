@@ -1,0 +1,62 @@
+{
+    "editor.tabSize": 4,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    //
+    "cSpell.words": [
+        "devextreme",
+        "endregion",
+        "heatscore",
+        "kanban",
+        "noopener",
+        "noreferrer",
+        "noscore",
+        "ngxs",
+        "scrollview",
+        "tailwindcss",
+        "twilio",
+        "Twilio",
+        "wavesurfer",
+        "woosender",
+        "favourite",
+        "plivo",
+        "Plivo",
+        "skipcq"
+    ],
+    "angular.enable-strict-mode-prompt": false,
+    //
+    "javascript.preferences.quoteStyle": "single",
+    "javascript.referencesCodeLens.enabled": true,
+    //
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    //
+    "typescript.preferences.quoteStyle": "single",
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.referencesCodeLens.enabled": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    //
+    "html.format.enable": true,
+    "html.format.wrapAttributes": "force-aligned",
+    //
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.renderWhitespace": "all",
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    //
+    "scss.validate": false,
+    "todohighlight.keywordsPattern": "//#[region | endregion].*",
+    "todohighlight.keywords": ["//#region", "//#endregion"],
+    "todohighlight.defaultStyle": {
+        "color": "#ffffff",
+        "borderRadius": "4px",
+        "border": "1px solid #ffffff",
+        "backgroundColor": "transparent"
+    }
+}
